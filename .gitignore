@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+/tempo-do-vídeo.txt
 
 # testing
 /coverage
