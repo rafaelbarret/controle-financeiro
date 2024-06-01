@@ -17,7 +17,6 @@ export const Tbody = styled.tbody``;
 export const Tr = styled.tr``;
 
 export const Th = styled.th`
-    text-slign: start;
     border-bottom: inset;
     padding-bottom: 5px;
     text-slign: ${(props) => (props.alignCenter ? "center" : "start")};
